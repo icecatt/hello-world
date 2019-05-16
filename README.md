@@ -1,2 +1,3 @@
 # hello-world
-just for fun
+hi friends
+i want to learn from you
